@@ -1,0 +1,11 @@
+Linen for Herdr
+Copyright 2026 Ritik Sahni
+
+The workspace layout in layouts/linen-workspace.json is adapted from the
+Herdr desktop main layout, version 0.1.10:
+https://github.com/herdrdev/herdr-app
+Herdr is distributed under the Apache License, Version 2.0.
+
+Linen adds its own light palette and layout preview and selects that palette
+in the adapted workspace. Herdr's built-in mod code and icons are not
+redistributed by this package; they are supplied by the user's Herdr app.
