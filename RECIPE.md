@@ -1,6 +1,6 @@
 # Linen
 
-A quiet light workspace for coding agents, with the feel of wearing linen: light, breathable, and quietly structured. Warm ivory terminals sit inside stone-colored chrome, with charcoal text, sage focus and selection accents, and restrained status colors. Spaces and agents stay visible on the left; the active work fills the center. This is a brief another agent can build from an empty folder in a current Herdr installation. The adjacent files are one implementation, based on Herdr desktop 0.1.10.
+A quiet light workspace for coding agents: warm ivory terminals sit inside stone-colored chrome, with charcoal text, sage focus and selection accents, and restrained status colors. Spaces and agents stay visible on the left; the active work fills the center. The palette takes inspiration from linen's natural warmth and lightness. This is a brief another agent can build from an empty folder in a current Herdr installation. The adjacent files are one implementation, based on Herdr desktop 0.1.10.
 
 ![Linen](preview.png)
 

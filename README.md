@@ -42,9 +42,9 @@ The layout uses Herdr's built-in panels. See [mods/README.md](mods/README.md) fo
 
 ## Design
 
-Linen should feel like wearing the fabric: light, breathable, and quietly structured. A workspace is something you spend a day inside. Warm ivory softens the large surfaces; stone gives the surrounding controls their own place; sage marks focus without shouting. Charcoal text and carefully tuned terminal colors keep the work clear.
+Warm ivory softens the terminal surfaces, stone separates the surrounding controls, and sage marks focus. Charcoal text and carefully tuned terminal colors keep code, diffs, and agent statuses clear.
 
-The philosophy is softness with structure. Color creates the warmth, spacing gives the content room, and measured contrast keeps that softness useful. The familiar Herdr layout lets the palette do its work.
+The palette takes inspiration from linen's natural warmth and lightness.
 
 | Role | Color |
 | --- | --- |
